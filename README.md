@@ -1,4 +1,4 @@
 # Ayush-demo
 This is my Git Repository
 <br>
-AUTHOR- AYUSH RANJAN
+AUTHOR- AYUSH RANJAN (STUDENT)
